@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "5.1.6",
+    "sucrase": "3.34.0",
+    "@types/node": "20.4.10"
+  },
+  "scripts": {
+    "start": "sucrase-node ./src/index.ts"
+  }
+}
