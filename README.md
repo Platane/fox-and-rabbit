@@ -1,6 +1,6 @@
 # rabbits and foxes
 
-![game solver running in terminal with emojis animation](./doc/game.gif)
+![game solver running in terminal with emojis animation](./doc/game2.gif)
 
 A solver for the game [jumpin](https://www.smartgames.eu/uk/one-player-games/jumpin)
 
